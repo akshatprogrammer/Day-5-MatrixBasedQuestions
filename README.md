@@ -29,7 +29,7 @@
   * same row, column increments .
   * same col^n , row increments.
   * same row, col decrements.
-  * same col,  row decrements.
+  * same col,  row decrements.</br>
 [Solution](https://github.com/akshatprogrammer/Day-5-MatrixBasedQuestions/blob/main/SpiralForm.cpp)
 ## AntiSpiral form
 [Solution](https://github.com/akshatprogrammer/Day-5-MatrixBasedQuestions/blob/main/AntiSpiralForm.cpp)
