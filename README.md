@@ -25,6 +25,11 @@
   * Constants used are very large.
   
 ## Print Spiral form of Matrix
+  ### There will be 4 inner loops:
+  * same row, column increments .
+  * same col^n , row increments.
+  * same row, col decrements.
+  * same col,  row decrements.
 [Solution](https://github.com/akshatprogrammer/Day-5-MatrixBasedQuestions/blob/main/SpiralForm.cpp)
 ## AntiSpiral form
 [Solution](https://github.com/akshatprogrammer/Day-5-MatrixBasedQuestions/blob/main/AntiSpiralForm.cpp)
