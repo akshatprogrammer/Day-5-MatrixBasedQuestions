@@ -19,7 +19,7 @@
   * There are 7 pre-defined formulas to calculate the final values in resultant matrix.
   * Time Complexity = O(n^2.8)
   
-  **Drwabacks**</br>
+  **Drawbacks**</br>
   * Typical Application
   * Use of recursive functions, i.e use of extra space.
   * Constants used are very large.
