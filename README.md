@@ -1,4 +1,9 @@
 # Day-5-MatrixBasedQuestions
+## Matrix Multiplication
+  ### Method 1:
+  
+  ### Method 2:
+## Print Spiral form of Matrix
 # Connect With Me
 LinkedIn : https://www.linkedin.com/in/akshat-jain-a24baa18a/<br/>
 Email : akshat.kodia@gmail.com<br/>
