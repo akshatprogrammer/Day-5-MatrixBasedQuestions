@@ -1,6 +1,16 @@
 # Day-5-MatrixBasedQuestions
 ## Matrix Multiplication
   ### Method 1:
+  Condition of Matrix Multiplication -> **Col^n of 1 Matrix = Row of 2 Matrix**</br>
+  * Run a loop from 0 to R1.
+  * Run inner loop from 0 to C2.
+  * assign product[i]/[j]=0;
+  * Run another inner loop from 0 to R2/C1.
+  * Assign product[i]/[j] += A[i]/[k] * B[k]/[j];
+  
+  Time Complexity = O(m X n X q)
+  </br>
+  [Solution](https://github.com/akshatprogrammer/Day-5-MatrixBasedQuestions/blob/main/MatrixMultiplication.cpp)
   
   ### Method 2:
 ## Print Spiral form of Matrix
