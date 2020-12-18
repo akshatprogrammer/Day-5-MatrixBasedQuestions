@@ -25,9 +25,13 @@
   * Constants used are very large.
   
 ## Print Spiral form of Matrix
+[Solution](https://github.com/akshatprogrammer/Day-5-MatrixBasedQuestions/blob/main/SpiralForm.cpp)
+## AntiSpiral form
+[Solution](https://github.com/akshatprogrammer/Day-5-MatrixBasedQuestions/blob/main/AntiSpiralForm.cpp)
 ## ZigZag Printing
   ### Of Diagonals
   ### Of Rows
+  [Solution](https://github.com/akshatprogrammer/Day-5-MatrixBasedQuestions/blob/main/ZigZagRows.cpp)
 # Connect With Me
 LinkedIn : https://www.linkedin.com/in/akshat-jain-a24baa18a/<br/>
 Email : akshat.kodia@gmail.com<br/>
