@@ -4,6 +4,9 @@
   
   ### Method 2:
 ## Print Spiral form of Matrix
+## ZigZag Printing
+  ### Of Diagonals
+  ### Of Rows
 # Connect With Me
 LinkedIn : https://www.linkedin.com/in/akshat-jain-a24baa18a/<br/>
 Email : akshat.kodia@gmail.com<br/>
